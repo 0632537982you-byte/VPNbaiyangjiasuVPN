@@ -12,7 +12,7 @@
 * **📱 全平台**：支持 Windows, Mac, Android, iOS (Shadowrocket)。
 * **🎁 免费试用**：注册即送时长，每日签到领流量。
 
-👉 **[立即点击注册：白羊加速官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=VD7GZSba接)**
+👉 **[立即点击注册：白羊加速官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=VD7GZSba)**
 *(新人福利码：`BYAE7A9799B9F6` | 下载APP -> 右上角兑换)*
 
 ---
