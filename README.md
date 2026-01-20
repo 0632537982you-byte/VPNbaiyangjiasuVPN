@@ -70,18 +70,17 @@ pyinstaller --onefile --windowed main.py
 * 不支持 Hysteria / VLESS 等较新协议（待更新）。
 
 ## 📄 开源协议
-<details> <summary>🔍 <b>热门搜索</b></summary>
+<details> 
 
 🔥 热门工具与客户端
 Clash, Clash for Windows, Clash Verge, Clash Meta, Clash Nyanpasu, v2rayN, v2rayNG, Shadowrocket, 小火箭, Quantumult X, Loon, Surge, Stash, Egern, Pharos, Sing-box, Hysteria, Tuic, Juicity, Nekobox.
 
-🚀 竞品关联 & 流量截取 (VPN Recommendations)
-国际大牌：ExpressVPN, NordVPN, Surfshark, VyprVPN, ProtonVPN, PureVPN, Astrill VPN, Private Internet Access (PIA). 国内热门：熊猫加速器 (PandaVPN), 老王VPN, 蚂蚁加速器, 蓝灯 (Lantern), 佛跳墙VPN, 旋风加速器, 极光加速器, 狗急加速器, 快连VPN, Let's VPN.
+🚀 (VPN Recommendations)
+ExpressVPN, NordVPN, Surfshark, VyprVPN, ProtonVPN, PureVPN, Astrill VPN, Private Internet Access (PIA). 国内热门：熊猫加速器 (PandaVPN), 老王VPN, 蚂蚁加速器, 蓝灯 (Lantern), 佛跳墙VPN, 旋风加速器, 极光加速器, 狗急加速器, 快连VPN, Let's VPN.
 
-🗝️ 核心搜索关键词
 科学上网, 翻墙, 梯子, 免费VPN, 免费梯子, 电脑VPN, 安卓VPN, iOS翻墙, 苹果VPN, 机场推荐, 稳定机场, 翻墙软件, 中国VPN, VPN for China, 翻墙回国, 免费节点, 订阅链接, 机场测速, 机场订阅转换.
 
-💡 场景需求
+
 ChatGPT梯子, 解锁Netflix, 观看YouTube 4K, Midjourney绘图, 稳定的梯子, 游戏加速器, 外网加速器, GitHub加速, 谷歌学术, 跨境电商, TikTok直播, 奈飞解锁.
 
 </details>
