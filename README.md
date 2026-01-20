@@ -15,6 +15,9 @@
 👉 **[立即点击注册：白羊加速官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=VD7GZSba)**
 *(新人福利码：`BYAE7A9799B9F6` | 下载APP -> 右上角兑换)*
 
+邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单，开通对应时长！！！
+邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单，开通对应时长！！！
+邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单，开通对应时长！！！
 ---
 
 ## 📖 项目简介
@@ -70,18 +73,27 @@ pyinstaller --onefile --windowed main.py
 * 不支持 Hysteria / VLESS 等较新协议（待更新）。
 
 ## 📄 开源协议
+
+MIT License
+
+*标签：#白羊加速 #VPN推荐 #免费梯子 #翻墙软件 #科学上网 #稳定VPN #游戏加速器 #绿茶vpn*
+
+
+*注：我们不是 #白羊星 #白羊星vpn   注：我们不是 #白羊星 #白羊星vpn*
 <details> 
 
-🔥 热门工具与客户端
-Clash, Clash for Windows, Clash Verge, Clash Meta, Clash Nyanpasu, v2rayN, v2rayNG, Shadowrocket, 小火箭, Quantumult X, Loon, Surge, Stash, Egern, Pharos, Sing-box, Hysteria, Tuic, Juicity, Nekobox.
+<details>
+<summary>🔍 <b>常见问题 & 相关工具推荐 (FAQ / SEO)</b> - 点击查看</summary>
 
-🚀 (VPN Recommendations)
-ExpressVPN, NordVPN, Surfshark, VyprVPN, ProtonVPN, PureVPN, Astrill VPN, Private Internet Access (PIA). 国内热门：熊猫加速器 (PandaVPN), 老王VPN, 蚂蚁加速器, 蓝灯 (Lantern), 佛跳墙VPN, 旋风加速器, 极光加速器, 狗急加速器, 快连VPN, Let's VPN.
+#### 🔧 为什么选择本工具？
+相比于 **Clash for Windows**、 **Clash Verge** 或 **v2rayN**，本工具专注于格式转换。如果您使用 **Shadowrocket (小火箭)**、**Quantumult X** 或 **Surge**，本工具生成的订阅同样适用。
 
-科学上网, 翻墙, 梯子, 免费VPN, 免费梯子, 电脑VPN, 安卓VPN, iOS翻墙, 苹果VPN, 机场推荐, 稳定机场, 翻墙软件, 中国VPN, VPN for China, 翻墙回国, 免费节点, 订阅链接, 机场测速, 机场订阅转换.
+#### 🚀 替代方案与竞品对比
+如果您正在寻找 **ExpressVPN**、**快连VPN（太贵）**、**快速VPN**、**NordVPN** 或 **PandaVPN (熊猫加速器)** 的免费平替，建议尝试使用开源协议（如 **Hysteria2**, **VLESS**, **Trojan**）搭配本工具使用，速度通常优于传统 VPN。
 
-
-ChatGPT梯子, 解锁Netflix, 观看YouTube 4K, Midjourney绘图, 稳定的梯子, 游戏加速器, 外网加速器, GitHub加速, 谷歌学术, 跨境电商, TikTok直播, 奈飞解锁.
+#### 💡 适用场景
+完美解决 **ChatGPT**、**Gemini 3 pro** 访问限制、解锁 **Netflix** 区域限制、**YouTube 4K** 缓冲慢等问题。支持 **Windows**、**Android**、**iOS** 全平台订阅转换。
+ChatGPT梯子，Gemini 3 pro, 解锁Netflix, 观看YouTube 4K, Midjourney绘图, 稳定的梯子, 游戏加速器, 外网加速器, GitHub加速, 谷歌学术, 跨境电商, TikTok直播, 奈飞解锁
 
 </details>
-MIT License
+</details>
