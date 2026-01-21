@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-### 🏆 特别推荐：白羊加速 (Aries VPN)
+### 🏆 特别推荐：baiyang加速 (Aries VPN)
 > **还在寻找稳定的翻墙工具？**
-> 白羊加速提供 IPLC/IEPL 专线，拒绝晚高峰卡顿。
+> 全新加速器提供 IPLC/IEPL 专线，拒绝晚高峰卡顿。
 
 * **🚀 极速体验**：油管 4K/8K 视频秒开，无缓冲。
 * **🔓 全能解锁**：完美支持 ChatGPT, Gemini, Midjourney, Netflix, Disney+。
@@ -14,7 +14,7 @@
 * **邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单**。
 * **邀请新用户注册送时长，邀请10个用户注册送一个月时长，27个用户送一个季度时长，邀请到了对应的用户，联系客服或者提交工单**。
   
-👉 **[立即点击注册：白羊加速官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=2T8KwEZa)**
+👉 **[立即点击注册：全新官网 (含最新优惠)](https://baiyangjiasu.com/register?invite=2T8KwEZa)**
 *(新人福利码：`BYAE7A9799B9F6` | 下载APP -> 右上角兑换)*
 
 
